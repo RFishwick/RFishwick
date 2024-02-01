@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RFishwick
-- 👀 I’m interested in Web development and design, Data analytics.
-- 🌱 I’m currently learning Bootstrap 5.0
-- 💞️ I’m looking to collaborate on Data Analytics.
+- 👀 I’m most interested in Web development and design.
+- 🌱 I’m currently using HTML, JavaScript, Bootstrap 5.3, PHP and MySQL to create responsive, interactive websits.
+- 💞️ I’m looking to collaborate on website development.
 - 📫 How to reach me: randyfishwick@gmail.com
 
 <!---
